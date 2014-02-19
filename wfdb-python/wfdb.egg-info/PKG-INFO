@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: wfdb
+Version: 10.5
+Summary: WFDB wrappers
+Home-page: http://physionet.org/physiotools/wfdb.shtml
+Author: I. Henry and G. Moody
+Author-email: wfdb-swig@physionet.org
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN

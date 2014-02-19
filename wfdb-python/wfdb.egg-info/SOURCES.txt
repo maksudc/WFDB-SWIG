@@ -1,0 +1,8 @@
+README
+setup.py
+wfdb.py
+wfdb_python_wrap.c
+wfdb.egg-info/PKG-INFO
+wfdb.egg-info/SOURCES.txt
+wfdb.egg-info/dependency_links.txt
+wfdb.egg-info/top_level.txt
